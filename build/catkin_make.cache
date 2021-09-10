@@ -1,0 +1,2 @@
+beginner_tutorials:rplidar_ros:sonar_files
+-DCATKIN_DEVEL_PREFIX=/home/aahlad/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aahlad/catkin_ws/install -G Unix Makefiles
