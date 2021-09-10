@@ -1,2 +1,6 @@
 # AutonomousMobility
-This Rep contains my implementation of an autonomous vehicle using LiDAR, Sonar and other sensors with obstacle avoidance and lane tracking as end goals
+This Rep contains the implementation of Lane Tracking and Obstacle avoidance using the following sensors and libraries:
+1. Sonar
+2. LiDAR
+3. OpenCV
+4. Transfer Learning
